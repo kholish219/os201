@@ -7,8 +7,9 @@ Halaman ini merupakan GitHub Pages milik Muhammad Nurkholish dalam pemenuhan tug
 Semoga dengan adanya halaman ini, dapat membantu Anda dalam mencari informasi terkait operating system :)
 
 ### References about OS
-[references OS](URLs/)
+click here: [references OS](URLs/)
 
 ### Creator and Github links
 **Muhammad Nurkholish** - 1806186881 - OS201 kelas B
-[GitHub](https://github.com/kholish219/os201)
+
+[GitHub Kholish](https://github.com/kholish219/os201)
