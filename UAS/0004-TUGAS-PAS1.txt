@@ -1,13 +1,13 @@
 Script started on Tue 09 Jun 2020 06:19:56 AM WIB
-muhammad.nurkholish@badak:~/UAS$ PS1="$ "
+]0;muhammad.nurkholish@badak: ~/UASmuhammad.nurkholish@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 kholish219
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200609-062018-8c10-UAS/>
+200609-062018-8c10-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
-200609-062025-9364-UAS/> echo -e $CEKSAYA
+200609-062025-9364-UAS/> echo 0[K-e $CEKSAYA
 kholish219 ZCZCSCRIPTSTART 200608-222235 kholish219
 kholish219 kholish219 200608-222344-b43d-muhammad.nurkholish/ 200608-222344 SEQOK SUMOK b43dedf9
 kholish219 kholish219 200608-222402-5b6a-muhammad.nurkholish/ 200608-222402 SEQOK SUMOK 5b6a2b49
